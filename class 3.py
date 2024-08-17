@@ -24,7 +24,7 @@ else:
 
 print(f"su IMC es {IMC: .2f}")
 print(f"su clasificacion es {clasificacion}")
-
+print("hola")
 
 
 
